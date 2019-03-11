@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	
+<title>Pro Vapers</title>
+<link href="CSS other pages.css" rel="stylesheet" type="text/css">
+<ul>
+	<li><a href="Juul Website.html">Home</a></li>
+	<li><a href="How the Juul Works.html">How it Works</a></li>
+	<li><a href="Buy It.html">Buy It</a></li>
+	<li><a href="How to look cool.html">How to Use it</a></li>
+	<li><a href="Pro Vapers.html">Professionals</a></li>
+	<li><a href="Health Advice.html">Health Advice</a></li>
+</ul>
+</head>
+
+<body>
+	<h1>Professional Juulers</h1>
+	<header><h2>With Hype comes Hype Beasts</h2></header>
+<p>There are a number of people who have taken Juuling to the next level. Here are some of the best tricks that Juulers have performed. <i>As found on Youtube</i>.</p>
+	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/9WQ4mOsDBcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+	<footer><h3>quick beginner juul tricks by JuulArmy</h3></footer>
+	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/ANQzwbGFgoc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+	<footer><h3>PHIX & JUUL VAPE TRICKS FOR BEGINNERS! (HOW TO)PHIX & JUUL VAPE TRICKS FOR BEGINNERS! (HOW TO) by Jonathan Garlatta</h3></footer>
+	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/zVWRl4DCuGs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+	<footer><h3>How to do Juul Tricks pt2 by ThomasDailyVlogs</h3></footer>
+</body>
+</html>
