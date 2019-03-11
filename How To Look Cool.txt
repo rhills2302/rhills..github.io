@@ -1,0 +1,35 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>How to Look Cool Juuling</title>
+	
+<link href="CSS other pages.css" rel="stylesheet" type="text/css">
+<nav><ul>
+	<li><a href="Juul Website.html">Home</a></li>
+	<li><a href="How the Juul Works.html">How it Works</a></li>
+	<li><a href="Buy It.html">Buy It</a></li>
+	<li><a href="How to look cool.html">How to Use it</a></li>
+	<li><a href="Pro Vapers.html">Professionals</a></li>
+	<li><a href="Health Advice.html">Health Advice</a></li>
+</ul></nav>
+</head>
+
+<body>
+	<h2>Now that you've got a Juul or thinking of getting one, you need to know...</h2>
+	<h1>How To Look Cool Vaping</h1>
+	<p>Here are the best tips from Juul Vapers I've seen in action</p>
+	<h3>Make sure to rip fat clouds</h3>
+	<p>Because you're new to the Juuling concept, I'll explain what "rip fat clouds" means. To rip fat clouds means that the user takes a deep inhale, pulling as much of the liquid as he/she can and then puffs all the smoke out in one slow exhale. This ensures that the majority of the vape smoke does not enter the lungs... but the atomosphere. To look even cooler try facing up into the sky, to make it more dramatic.</p>
+<h3>Be as stealthy as you can</h3>
+	<p>Nothing is cooler than no one knowing that you've just taken a big hit. Especially when its in a location where you probably shouldn't be vaping like a school, a Pediatrician's office or a hospital.</p>
+	<h3>If at any point you misplace or lose your Juul, yell "Dude, WHERE is my Juul?"</h3>
+	<p>Should you lose your juul, even for a second, if a friend has it or you've lost it in your purse or bag, be sure to loudly exclaim, "Dude," (or bro if you like), "where is my Juul?". Be sure to emphasise the <b>where</b> to indicate the desperation and distress of not having the Juul with you at all times.</p>
+<h3>Don't be stingy with your pods</h3>
+	<p>Nothing makes someone less cool than being stingy with the Juul. The only reason you shouldn't pass the Juul is if you've only just got it back, have a contaigeous disease or a cold sore.</p>
+	<h3>Enjoy the "niccy rush"</h3>
+	<p>The "niccy rush" is when the nicotine hits the body's nervous system causing a tingling and floating sensation. When you are feeling the "niccy rush", say so! Show your friends how fun and cool it is to be vaping! They will wish they were you.</p>
+	<h3>Show off!</h3>
+	<p>If you learnt a new trick, show off! Make sure you do it at every possible opportunity. Make your friends jealous with your sick Juul.</p>
+</body>
+</html>
