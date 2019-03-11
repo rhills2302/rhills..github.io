@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<header>
+<meta charset="utf-8">
+<title>Health Advice. Things you need to know about your health when Juuling</title>
+<link href="CSS Health.css" rel="stylesheet" type="text/css">
+<nav><ul>
+	<li><a href="Home Page.html">Home</a></li>
+	<li><a href="How It Works.html">How it Works</a></li>
+	<li><a href="Buy It.html">Buy It</a></li>
+	<li><a href="How To Look Cool.html">How to Use it</a></li>
+	<li><a href="Pro Vapers.html">Professionals</a></li>
+	<li><a href="Health Advice.html">Health Advice</a></li>
+</ul></nav>
+</header>
+
+<body>
+	<h1>Important Health Advice</h1>
+	<h2>The Juul contains a highly addictive substance called nicotine. Be careful when you start Juuling to make sure the addiction does not get too overwhelming.</h2>
+	<h3>You should know that Juuling has these possible side effects:</h3>
+	<ol type="1">
+		<li style="color:whitesmoke;">Coughing</li>
+		<li style="color:whitesmoke;">Sore throat</li>
+		<li style="color:whitesmoke;">Dizziness</li>
+		<li style="color:whitesmoke;">Nausea</li>
+		<li style="color:whitesmoke;">Dry throat</li>
+		<li style="color:whitesmoke;">Abdominal Pain</li>
+		<li style="color:whitesmoke;">Headaches</li>
+	</ol>
+	<p>Take care when Juuling and try limiting the amount of pods you have per day/week.</p>
+</body>
+</html>
