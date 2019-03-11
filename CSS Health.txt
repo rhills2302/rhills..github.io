@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color: black}
+h1{color:lightgray; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; padding-left: 400px}
+h2{color:orange;font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+h2.one{
+	border-style: dotted; 
+	border-width: 10px;
+	border-color: red}
+h3{color:#FFE5B4; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+p{color: lightgray;font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+a:link{color:antiquewhite}
+a:hover{color:orange}
+ul{
+	list-style-type: inline; 
+	margin: 0;
+	padding: 0;
+}
+li{
+	display: inline; 
+	padding: 20px;
+	text-align: center;
+}
+li a{color: white; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+li a:hover {background-color: orange; 
+	color: white
+}
+ol{
+	list-style-type: circle; 
+	margin: 30px;
+	padding: 8px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";}
+	li a{color: "white"}
+
