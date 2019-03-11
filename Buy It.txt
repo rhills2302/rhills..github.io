@@ -1,0 +1,31 @@
+﻿<!doctype html>
+<html>
+<header>
+<meta charset="utf-8">
+<title>Where to find a juul, where to buy one and where to buy your pods.</title>
+	<link href="CSS Other Pages.css" rel="stylesheet" type="text/css">
+<nav><ul>
+	<li><a href="Home Page.html">Home</a></li>
+	<li><a href="How It Works.html">How it Works</a></li>
+	<li><a href="Buy It.html">Buy It</a></li>
+	<li><a href="How To Look Cool.html">How to Use it</a></li>
+	<li><a href="Pro Vapers.html">Professionals</a></li>
+	<li><a href="Health Advice.html">Health Advice</a></li>
+</ul></nav>
+</header>
+
+<body>
+<h2>Now that you know what a Juul is...now you need to know</h2>
+<h1>Where to Buy a Juul</h1>
+	<p>There are a number of options for those looking for a Juul. You do have to go into a physical store and present your ID as there are age limits in every state on smoking, you can check out those limits <a href="https://tobacco21.org/state-by-state/" target="new">here</a>.</p>
+<h3>The Juul Website</h3>
+	<p>The Official Juul Website is the only way to get your Juul direct from the source, <i>obviously</i>. Except that you <b>can't</b>. BUT they do have an application where you can locate a store that you <b>can</b> buy a Juul from. The Juul website alsoo has a few fun features where you can earn money buy refering smokers to the Juul and you can register your Juul. Registering your Juul can earn you one year warranty, so if your Juul gets lost damaged or broken you can simply order a new one.</p>
+<h3>Smoker's Choice</h3>
+	<p>Smoker's Choice, the home of all things that you could possibly heat up and breathe in. They have a varied selection of Juuls that you can buy. As well as a number of different pods that you can use to continue vaping.</p>
+<h3>Gas Stations</h3>
+	<p>A more risky option for potential Juul buyers is going to a gas or petrol station and grabbing one from there.They also have pods and chargers on demand so you can never be without nicotine for long.</p>
+<h3>Shady Convenience Stores</h3>
+	<p><b>This one I don't recommend</b>. Some convenience stores have Juuls and other discount brands of portable vapes. However, these are usually the stores you don't visit after 10pm or bring another body into the store with you...just in case.</p>
+<h2>Now you know where you can find your Juul! Go on out there and grab one!</h2>
+</body>
+</html>
