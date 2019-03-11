@@ -1,0 +1,42 @@
+﻿
+<!doctype html>
+<html lang="en-US"
+	
+<head>
+<meta charset="utf-8">
+<title>Juul. The electronic cigarette that is cooler and healthier than traditional cigarette alternatives. This site is a one stop spot to learn everything you need to know about the Juul; how to get one, how to restock your pod supply and look cool while vaping where you (probably) shouldn't.</title>
+<link href="Home Page CSS.css" rel="stylesheet" type="text/css" media="screen"></head>
+<nav><ul>
+	<li><a href="Home Page.html">Home</a></li>
+	<li><a href="How It Works.html">How it Works</a></li>
+	<li><a href="Buy It.html">Buy It</a></li>
+	<li><a href="How To Look Cool.html">How to Use it</a></li>
+	<li><a href="Pro Vapers.html">Professionals</a></li>
+	<li><a href="Health Advice.html">Health Advice</a></li>
+</ul></nav>
+
+<h1>Juul</h1>
+	<h2>The Electronic Cigarette Cooler than the Old Cigarette</h2>
+
+<body>
+<img src="Juul & Pods.jpg" width="275" height="183" alt="The Juul E-Cigarette with packaging and pods"/>
+
+<p> The Juul or the Electronic Cigarette is cooler than traditional style cigarettes, and <i>possibly</i> healthier. This website is the all time guide on how to obtain, keep up your addiction and look cool while doing it. If you want to look at the official website, <a href="https://www.juul.com/" title="Juul Official Website" target="new" >click here</a>.</p>
+
+<table style="width:100%">
+  <tr>
+    <th><img src="Notepad website/Juul 1.jpg" width="100" height="100" alt="Juul in Packaging"/></th>
+    <th><img src="Notepad website/Juul 2.jpg" width="75" height="100" alt="Handheld Juul Metallic"/></th> 
+    <th><img src="Notepad website/Juul 3.jpg" width="200" height="100" alt="Smoking Juul"/></th>
+	<th><img src="Notepad website/Juul 4.jpg" width="75" height="100" alt="Juul hidden in Sharpie"/></th>
+	<th><img src="Notepad website/Juul 5.jpg" width="140" height="100" alt="Juul Pack"/></th>
+  </tr>
+  <tr>
+    <td>Juul In Packaging.</td>
+    <td>Metallic Juul Casing</td>
+    <td>Smoking a Juul</td>
+	<td>A Juul Hidden in a Sharpie</td>
+	<td>A juul with a packet of pods</td>
+  </tr>
+</body>
+</html>
