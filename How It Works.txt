@@ -1,0 +1,42 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Health Advice. Things you need to know about your health when Juuling</title>
+<link href="css health.css" rel="stylesheet" type="text/css">
+<nav><ul>
+	<li><a href="Home Page.html">Home</a></li>
+	<li><a href="How It Works.html">How it Works</a></li>
+	<li><a href="Buy It.html">Buy It</a></li>
+	<li><a href="How To Look Cool.html">How to Use it</a></li>
+	<li><a href="Pro Vapers.html">Professionals</a></li>
+	<li><a href="Health Advice.html">Health Advice</a></li>
+</ul></nav>
+</head>
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>How the Juul Works. Learn about the Juul and what makes it tick.</title>
+<link href="CSS other pages.css" rel="stylesheet" type="text/css">
+<nav><ul>
+	<li><a href="Juul Website.html">Home</a></li>
+	<li><a href="How the Juul Works.html">How it Works</a></li>
+	<li><a href="Buy It.html">Buy It</a></li>
+	<li><a href="How to look cool.html">How to Use it</a></li>
+	<li><a href="Pro Vapers.html">Professionals</a></li>
+	<li><a href="Health Advice.html">Health Advice</a></li>
+</ul></nav>
+<body>
+	<h1>How the Juul Works</h1>
+	<h2>The Juul or E-Cigarette</h2>
+	<p>The Juul comes in three parts. The Battery or Base, the pods and the charger. The charger is connected to a usb port and metal plates on the base of the Battery allow it to charge. The Pods are filled with a nicotine salt liquid and are disposable and replaceable. The pod is inserted into the top of the Battery and clicked into place, connecting metal plates at the base of the pod to the battery to allow the e-cigarette to function.</p>
+	<h2>Yeah, but how does it actually work</h2>
+	<h3>Basically...</h3>
+		<p>Basically the Juul is defined as a e-cigarette. It is a battery operated stick that heats up a nicotine filled liquid which cause it to vaporise and get pulled into the lungs of the user.</p>
+<h3>Technically...</h3>
+	<p>The Juul is a lithum metal casing surrounding a lithium battery. At the top a circuit board and a sensor separate tell the device when to start heating the liquid, when the user pulls an inward breath. A silica wick, drenched in the nicotine liquid at the base of the pod, runs a small amount of vape juice to the atomiser at the base of the pod. This heats up the nicotine salt liquid causing it to vaporise and rise up the stainless steel pipe running through the middle of the pod.</p>
+<img src="JUUL_PRODUCT_DECONSTRUCTED_HERO_5380_02-R1-FNL.jpg" width="750" height="503" alt=""/>
+</body>
+</html>
+
